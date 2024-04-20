@@ -1,0 +1,20 @@
+[2024-04-20 19:28:56,106: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.135.66:8080]
+[2024-04-20 19:28:56,106: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-04-20 19:29:00,668: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:00] "GET / HTTP/1.1" 200 -]
+[2024-04-20 19:29:01,337: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:01] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2024-04-20 19:29:01,446: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:01] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2024-04-20 19:29:01,603: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:01] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2024-04-20 19:29:01,771: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:01] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2024-04-20 19:29:02,060: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:02] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-04-20 19:29:02,088: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:02] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -]
+[2024-04-20 19:29:02,294: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:02] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-04-20 19:29:02,355: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:02] "GET /static/assets/favicon.ico HTTP/1.1" 200 -]
+[2024-04-20 19:29:02,627: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:02] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
+[2024-04-20 19:29:45,442: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:45] "POST /predict HTTP/1.1" 200 -]
+[2024-04-20 19:29:45,599: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-04-20 19:29:45,677: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:45] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-04-20 19:29:46,162: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:46] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2024-04-20 19:29:46,200: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 19:29:46] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
