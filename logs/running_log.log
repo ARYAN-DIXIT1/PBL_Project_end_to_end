@@ -59,3 +59,22 @@
 [2024-04-20 20:23:51,881: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 20:23:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
 [2024-04-20 20:23:52,103: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 20:23:52] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
 [2024-04-20 20:23:52,170: INFO: _internal: 127.0.0.1 - - [20/Apr/2024 20:23:52] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
+[2024-04-21 07:43:48,999: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.135.66:8080]
+[2024-04-21 07:43:49,018: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-04-21 07:43:56,190: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:43:56] "GET / HTTP/1.1" 200 -]
+[2024-04-21 07:43:57,327: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:43:57] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2024-04-21 07:43:57,329: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:43:57] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2024-04-21 07:43:57,457: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:43:57] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2024-04-21 07:43:57,500: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:43:57] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2024-04-21 07:43:58,180: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:43:58] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-04-21 07:43:58,184: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:43:58] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -]
+[2024-04-21 07:43:58,330: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:43:58] "GET /static/assets/favicon.ico HTTP/1.1" 200 -]
+[2024-04-21 07:43:58,336: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:43:58] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-04-21 07:44:09,260: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:44:09] "POST /predict HTTP/1.1" 200 -]
+[2024-04-21 07:44:09,348: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:44:09] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-04-21 07:44:09,395: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:44:09] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-04-21 07:44:09,760: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:44:09] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2024-04-21 07:44:09,775: INFO: _internal: 127.0.0.1 - - [21/Apr/2024 07:44:09] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
