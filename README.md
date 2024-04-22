@@ -113,9 +113,3 @@ Now open up your local host 0.0.0.0:8080
 
     ECR_REPOSITORY_NAME = simple-app
 
-
-
-
-
-
- git config --global user.name "entbappy"
